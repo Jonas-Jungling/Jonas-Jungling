@@ -1,6 +1,6 @@
-# 🌟 Welcome to Jonas Jungling's GitHub Profile! 👋
+# 🌟 Welcome to Jonas's GitHub Profile! 👋
 
-Hello there! 👨‍💻 I'm **Jonas Jungling**, a dedicated student on a journey to become a skilled developer. Currently immersed in a hands-on, project-based learning experience at Holberton School, I'm exploring the fundamentals of software development and building a strong foundation for the future. Passionate about solving problems and continuously learning, I'm excited to tackle new challenges, discover innovative technologies, and grow both personally and professionally in this ever-evolving field.
+Hello there! 👨‍💻 I'm **Jonas**, a dedicated student on a journey to become a skilled developer. Currently immersed in a hands-on, project-based learning experience at Holberton School, I'm exploring the fundamentals of software development and building a strong foundation for the future. Passionate about solving problems and continuously learning, I'm excited to tackle new challenges, discover innovative technologies, and grow both personally and professionally in this ever-evolving field.
 
 ---
 
