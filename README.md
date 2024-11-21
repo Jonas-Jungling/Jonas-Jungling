@@ -28,7 +28,7 @@ This is where I showcase my journey in tech through **projects**, **collaboratio
 
 ## 🤝 Let's Connect!
 
-📧 **www.linkedin.com/in/jonas-jungling** | 💼 [LinkedIn](#)  
+💼 [LinkedIn](www.linkedin.com/in/jonas-jungling)  
 
 ---
 
